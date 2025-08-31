@@ -1,0 +1,15 @@
+Package: com.esofficial.emptytweak
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Esad
+Depends: mobilesubstrate
+Filename: ./debs/EmptyTweak.deb
+Size: 1356
+MD5sum: 1c18713c9e5950da90eb2b2c6b6b017b
+SHA1: 31f7f7eff1ffb21f98741ca866b594075b397c1a
+SHA256: a596d5cd1b3ab5b99092df6f0cc8ee628c0794a0e3444bf829bd305fd41f9fc2
+Section: tweaks
+Description: Test package for EsOfficial’s Repo
+Author: Esad
+Name: EmptyTweak
+
